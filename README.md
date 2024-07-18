@@ -1,7 +1,8 @@
 ## Hello everyone 👋
 My name is Vova, i am QA Engineer
 
-<img src="image/img.jpg">
+<img src="Image/img.jpg">
+
 <br>
 
 ## Testing API and Integrations
