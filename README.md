@@ -1,5 +1,5 @@
-<img src="https://giphy.com/embed/l0K4n42JVSqqUvAQg" width="480" height="298">
-
+<img src="https://giphy.com/gifs/chuber-qa-quality-assurance-l0K4n42JVSqqUvAQg" width="480" height="298">
+<p><a href="https://giphy.com/gifs/chuber-qa-quality-assurance-l0K4n42JVSqqUvAQg">via GIPHY</a></p>
 <h1 align="center">Hello everyone 👋 </h1>
 <h3 align="center">My name is Vova, i am QA Engineer </h3>
 
