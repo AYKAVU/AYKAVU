@@ -25,7 +25,7 @@ My name is Vova, i am QA Engineer
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp
 </div>
 
-## Tests Documentation
+## Test Documentation
   <div>
     <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="Test It" alt="Test It" width="40" height="40"/>&nbsp
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Notion-Dark.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp
@@ -43,3 +43,6 @@ My name is Vova, i am QA Engineer
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:VladimirBychkov2708@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/AYKAVU)
 
+</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f8b195,100:6c5b7b&section=footer&height=120" />
+</div>
