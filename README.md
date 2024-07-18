@@ -1,4 +1,4 @@
-<img src="Image/img.jpg" width="100" height="150">
+<img src="Image/img.jpg" width="800" height="300">
 
 <h1 align="center">Hello everyone 👋 </h1>
 <h3 align="center">My name is Vova, i am QA Engineer </h3>
