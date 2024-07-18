@@ -3,7 +3,7 @@ My name is Vova, i am QA Engineer
 <br>
 
 <p>
-    <a href="https://github.com/yogeshwaran01/github-stats-terminal-style">
+    <a href="https://github.com/AYKAVU/github-stats-terminal-style">
         <img width="500px" src="https://cdn.jsdelivr.net/gh/yogeshwaran01/github-stats-terminal-style@latest/github_stats.svg" alt="Github Stats" title="Terminal Style GitHub Stats">
     </a>
 </p>
