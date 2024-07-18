@@ -1,5 +1,4 @@
-<img src="https://giphy.com/gifs/chuber-qa-quality-assurance-l0K4n42JVSqqUvAQg" width="480" height="298">
-<p><a href="https://giphy.com/gifs/chuber-qa-quality-assurance-l0K4n42JVSqqUvAQg">via GIPHY</a></p>
+<img src="https://giphy.com/gifs/chuber-qa-quality-assurance-l0K4n42JVSqqUvAQg" width="480" height="298">&nbsp
 <h1 align="center">Hello everyone 👋 </h1>
 <h3 align="center">My name is Vova, i am QA Engineer </h3>
 
@@ -47,5 +46,5 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/AYKAVU)
 
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f8b195,100:6c5b7b&section=footer&width=1024&height=120" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f8b195,100:6c5b7b&section=footer&height=120" />
 </div>
