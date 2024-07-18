@@ -8,9 +8,6 @@
   </a>
 </div>
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7C453&width=435&lines=My+name+is+Vova%2C+i+am+QA+Engineer)](https://git.io/typing-svg)
-
 <br>
 
 ## Testing API and Integrations
