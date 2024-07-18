@@ -47,6 +47,6 @@
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:VladimirBychkov2708@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/AYKAVU)
 
-</div>
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f8b195,100:6c5b7b&section=footer&height=120" />
 </div>
