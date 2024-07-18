@@ -4,6 +4,11 @@
 <h1 align="center">Hello everyone 👋 </h1>
 <h3 align="center">My name is Vova, i am QA Engineer </h3>
 
+<div align="center">
+  <img src="https://example.com/your-image.jpg" alt="Описание изображения" width="500"/>
+</div>
+
+
 <br>
 
 ## Testing API and Integrations
