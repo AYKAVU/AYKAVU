@@ -48,11 +48,11 @@
   <img src="https://cdn.worldvectorlogo.com/logos/metabase.svg" title="Metabase" alt="Metabase" width="40" height="40"/>&nbsp
 </div>
 
-## Social
+## OS
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/discord/discord-original.svg" title="discord" alt="discord" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/telegram/telegram-original.svg" title="telegram" alt="telegram" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="slack" alt="slack" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/macos/macos-original.svg" title="macos" alt="macos" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/windows/windows-original.svg" title="windows" alt="windows" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp
 </div>
 <br>
 
