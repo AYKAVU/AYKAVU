@@ -2,12 +2,6 @@
 My name is Vova, i am QA Engineer
 <br>
 
-<p>
-    <a href="https://github.com/AYKAVU/github-stats-terminal-style">
-        <img width="500px" src="https://cdn.jsdelivr.net/gh/yogeshwaran01/github-stats-terminal-style@latest/github_stats.svg" alt="Github Stats" title="Terminal Style GitHub Stats">
-    </a>
-</p>
-
 ## Testing API and Integrations
 <div>
   <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp
