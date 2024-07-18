@@ -1,13 +1,8 @@
-<div aligh="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHhucjZocGdqdGlrcmtyY2RwYnA3czFnMjU1NGhnc3o1dnNncGgycSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0K4n42JVSqqUvAQg/giphy.gif" width="480" height="298">
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHhucjZocGdqdGlrcmtyY2RwYnA3czFnMjU1NGhnc3o1dnNncGgycSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0K4n42JVSqqUvAQg/giphy.gif" width="480" height="298"/>
 </div>
 <h1 align="center">Hello everyone 👋 </h1>
 <h3 align="center">My name is Vova, i am QA Engineer </h3>
-
-<div align="center">
-  <img src="https://example.com/your-image.jpg" alt="Описание изображения" width="500"/>
-</div>
-
 
 <br>
 
