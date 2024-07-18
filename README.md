@@ -48,5 +48,5 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/AYKAVU)
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f8b195,100:6c5b7b&section=footer&height=120" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=random&section=footer&fontAlign=50&descAlign=50&descAlignY=50&fontSize=0&reversal=true" />
 </div>
