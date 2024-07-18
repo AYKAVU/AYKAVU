@@ -4,7 +4,7 @@
 <h1 align="center">Hello everyone 👋 </h1>
 <h3 align="center">My name is Vova, i am QA Engineer </h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE8838&width=435&lines=I'm+QA+Engeneer+(manual%2Bauto))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7C453&width=435&lines=My+name+is+Vova%2C+i+am+QA+Engineer)](https://git.io/typing-svg)
 <br>
 
 ## Testing API and Integrations
