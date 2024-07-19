@@ -63,7 +63,6 @@
 ## 🤝 Contact with me
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:VladimirBychkov2708@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/AYKAVU)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=random&section=footer&fontAlign=50&descAlign=50&descAlignY=50&fontSize=0&reversal=true" />
