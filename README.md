@@ -44,14 +44,18 @@
 
 ## Data Base
 <div>
-  <img src="https://skillicons.dev/icons?i=linux,windows,ubuntu" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp
+  <img src="https://cdn.worldvectorlogo.com/logos/metabase.svg" title="Metabase" alt="Metabase" width="40" height="40"/>&nbsp
 </div>
 
 ## OS
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/macos/macos-original.svg" title="macos" alt="macos" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/windows/windows-original.svg" title="windows" alt="windows" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp
+  <img src="https://skillicons.dev/icons?i=linux,windows,ubuntu" />
+</div>
+
+## Social
+<div>
+   <img src="https://skillicons.dev/icons?i=slack,discord,telegram" />
 </div>
 <br>
 
