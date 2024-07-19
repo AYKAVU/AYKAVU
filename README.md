@@ -55,9 +55,8 @@
 
 ## Corporate Communication
 <div>
-  <img src="https://skillicons.dev/icons?i=discord,meet" />
+  <img src="https://skillicons.dev/icons?i=discord" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="slack" alt="slack" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/meet/meet-original.svg" title="meet" alt="meet" width="40" height="40"/>&nbsp
 </div>
 <br>
 
