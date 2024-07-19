@@ -7,7 +7,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7C453&width=435&lines=My+name+is+Vova%2C+i+am+QA+Engineer" alt="Typing SVG" />
   </a>
 </div>
-
 <br>
 
 ## Testing API and Integrations
