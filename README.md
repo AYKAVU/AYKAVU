@@ -45,7 +45,7 @@
 ## Data Base
 <div>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp
-  <img src="assets/DBeaver-Logo.wine.png" alt="DBeaver" width="40" height="40"/>
+  <img src="assets/DBeaver-Logo.wine.png" alt="DBeaver"/>
   <img src="https://cdn.worldvectorlogo.com/logos/metabase.svg" title="Metabase" alt="Metabase" width="40" height="40"/>&nbsp
 </div>
 
