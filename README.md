@@ -28,6 +28,11 @@
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
 </div>
 
+## E2E AutoTests
+<div>
+  <img src="assets/cypress-1.svg" alt="Cypress" width="40" height="40"/>
+</div>
+
 ## Logs and Monitoring
 <div>
   <img src="https://raw.githubusercontent.com/maliceio/kibana/master/docs/kibana-logo.png" title="Kibana" alt="Kibana" width="40" height="40"/>&nbsp
