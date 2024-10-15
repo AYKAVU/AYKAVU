@@ -65,6 +65,7 @@
 <div>
   <img src="https://skillicons.dev/icons?i=discord" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="slack" alt="slack" width="40" height="40"/>&nbsp
+  <img src="assets/outlook.svg" alt="OutLook" width="40" height="40"/>
 </div>
 <br>
 
