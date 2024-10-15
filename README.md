@@ -52,6 +52,7 @@
 ## OS
 <div>
   <img src="https://skillicons.dev/icons?i=linux,windows,ubuntu" />
+  <img src="assets/macos.svg" alt="MacOS" width="40" height="40"/>
 </div>
 
 ## Corporate Communication
