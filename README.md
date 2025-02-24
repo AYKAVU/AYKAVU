@@ -26,7 +26,7 @@
   <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" title="HTML" alt="HTML" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="xcode" alt="xcode" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/charles-proxy.svg" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
+  <img src="https://cdn.worldvectorlogo.com/logos/Charles.svg" title="Charles" alt="Charles" width="40" height="40"/>&nbsp
 </div>
 
 ## E2E AutoTests
